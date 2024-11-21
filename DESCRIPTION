@@ -1,10 +1,10 @@
 Package: RosyRun
-Title: An Amazing Shiny App
+Title: RosyRun
 Version: 0.0.0.9000
 Authors@R: 
-    person("firstname", "lastname", , "your@email.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: What license is it under?
+    person("Brandon", "Rose", , "thecodingdocs@gmail.com", role = "cre")
+Description: RosyRun is for importing and interacting with Strava data using the API.
+License: MIT + file LICENSE
 Imports: 
     config,
     dplyr,
@@ -24,3 +24,5 @@ Imports:
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
+URL: https://github.com/brandonerose/RosyRun
+BugReports: https://github.com/brandonerose/RosyRun/issues
